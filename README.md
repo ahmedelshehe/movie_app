@@ -22,4 +22,4 @@ const apiKey='your api key that you can obtain by registering to TMDB site';
 For Registering in TMDB 
 [Register Here](https://www.themoviedb.org/signup)
 
-![screen-20230106-024516~5](https://user-images.githubusercontent.com/25564941/210908949-728a65aa-1e12-4186-a71d-02a0023c1cfa.gif)
+![screen-20230106-024516~7](https://user-images.githubusercontent.com/25564941/210909978-de06aa86-fa37-4708-b9e8-54fadc430ac3.gif)
