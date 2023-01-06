@@ -7,7 +7,7 @@ A Movie App using TMDB Api
 ## Installing
 
 - Download The app
-- - Open the App in you favorite ide
+- - Open the App in you favorite IDE
 - Create a dart file with the name [constants.dart] in lib/constants directory with the following code
 
 ```
